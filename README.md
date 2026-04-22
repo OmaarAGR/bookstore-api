@@ -23,7 +23,7 @@ API REST para gestión de una librería en línea, construida con Spring Boot.
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/<usuario>/bookstore-api.git
+git clone https://github.com/OmaarAGR/bookstore-api.git
 cd bookstore-api
 ```
 
