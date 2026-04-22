@@ -4,7 +4,7 @@ API REST para gestión de una librería en línea, construida con Spring Boot.
 
 ## Tecnologías
 
-- Java 17
+- Java 21
 - Spring Boot 3.2
 - Spring Security + JWT
 - Spring Data JPA
